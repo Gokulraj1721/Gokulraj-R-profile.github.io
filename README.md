@@ -1,5 +1,4 @@
-# Gokulraj-R-profile.github.io
-ALL ABOUT ME 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
