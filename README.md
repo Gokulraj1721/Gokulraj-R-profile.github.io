@@ -4,25 +4,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GOKUL RAJ — Profile</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #222; }
-    header { background: #333; color: #fff; padding: 30px; text-align: center; }
-    header h1 { margin: 10px 0; }
-    header p { margin: 5px 0; color: #ddd; }
-    .avatar { width: 150px; height: 150px; border-radius: 50%; background: #bbb; margin: auto; display: flex; align-items: center; justify-content: center; font-size: 40px; font-weight: bold; color: #fff; }
-    section { padding: 20px; max-width: 800px; margin: 20px auto; background: #fff; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
-    h2 { margin-top: 0; }
-    ul { padding-left: 20px; }
-    a { color: #1e88e5; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    footer { text-align: center; padding: 15px; background: #333; color: #fff; margin-top: 20px; }
-  </style>
 </head>
 <body>
   <header>
     <div class="avatar">GR</div>
-    <h1>Akshai Kumar</h1>
+    <h1>GOKULRAJ</h1>
     <p>Machine Learning Enthusiast | Python | Web Dev 🚀</p>
   </header>
 
